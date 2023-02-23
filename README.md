@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @spayefin
-- 👀 I’m interested in data science, machine learning, nlp, computer vision technologies
-- 🌱 I’m currently learning machine learning algorithms and cloud technologies...
+- 👋 Hi, I’m Shankar Prasad [@spayefin] I am Python Developer.
+- 👀 I’m interested in data science, machine learning, NLP, computer vision technologies
+- 🌱 I’m currently working on data science, machine learning, deeplearning and cloud technologies...
+- 
 
 
 <!---
