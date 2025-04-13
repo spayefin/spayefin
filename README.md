@@ -21,7 +21,7 @@
 * Financial fraud detection, risk analytics, credit evaluation using Machine Learning and AI technologies
 * Technology to bussiness use case
 * Advancement of process using ML and AI
-* Mentor, Project and resource training and management*  
+* Mentor, Project and resource training and management
 
 <!---
 spayefin/spayefin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
