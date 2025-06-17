@@ -13,6 +13,7 @@ Currently, as Deputy VP – Data Science & AI at Aye Finance where I architect, 
     Cross-Domain Expertise: Banking, Retail, Healthcare, Energy, Telecom, Travel
 
 🚀 Featured Projects:
+
     🧠 LLM-based Call Auditing: Speech-to-text + LLMs for automated quality checks in customer support
     📷 Vision AI for Underwriting: Generative AI + document/image evaluation for risk profiling
     📱 Mobile Behavior Classifier: NLP-based early-stage creditworthiness detection
@@ -20,11 +21,13 @@ Currently, as Deputy VP – Data Science & AI at Aye Finance where I architect, 
     💳 Virtual Credit Card Engine: End-to-end KYC, risk scoring & card issuance platform
 
 👥 Leadership:
+
     Built and led high-performing AI/ML teams from scratch
     Designed internal training programs on MLOps, LLMs, and production AI systems
     Trusted advisor to cross-functional stakeholders on AI product strategy
 
 🛠 Tech Stack:
+
     Python, R, Java, Shell | Spark, Hadoop, Hive | AWS, Azure, GCP | FastAPI, Flask | PostgreSQL, MongoDB | Docker, Git, CI/CD | OpenCV, NLP, Vertex AI
 
   
