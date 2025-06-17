@@ -4,38 +4,29 @@ I’m an AI/ML Engineer and Data Science leader with 16+ years of deep, hands-on
 Currently, as Deputy VP – Data Science & AI at Aye Finance where I architect, develop and deploy scalable, cloud-native AI solutions powering digital credit platforms used across India.
 
 🔍 Core Expertise:
-Generative AI & LLMs (Gemini, LLAMA, Gemma, Vertex AI, GPT): RAG pipelines, Agentic AI, prompt engineering
 
-Fintech AI: Credit scoring, bureau analytics, fraud detection, ML-driven loan origination
-
+    Generative AI & LLMs (Gemini, LLAMA, Gemma, Vertex AI, GPT): RAG pipelines, Agentic AI, prompt engineering
+    Fintech AI: Credit scoring, bureau analytics, fraud detection, ML-driven loan origination
 Cloud Platforms: AWS (Lambda, Fargate, ECS), Azure, GCP – production-grade AI deployments
-
 End-to-End ML Engineering: From data ingestion to MLOps, CI/CD, real-time APIs
-
 NLP & Computer Vision: Speech analytics, mobile behavior profiling, document understanding
-
 Cross-Domain Expertise: Banking, Retail, Healthcare, Energy, Telecom, Travel
 
 🚀 Featured Projects:
 🧠 LLM-based Call Auditing: Speech-to-text + LLMs for automated quality checks in customer support
-
 📷 Vision AI for Underwriting: Generative AI + document/image evaluation for risk profiling
-
 📱 Mobile Behavior Classifier: NLP-based early-stage creditworthiness detection
-
 ⚙️ Real-Time Credit Bureau Scoring: ML pipeline for instant loan approval decisions
-
 💳 Virtual Credit Card Engine: End-to-end KYC, risk scoring & card issuance platform
 
 👥 Leadership:
 Built and led high-performing AI/ML teams from scratch
-
 Designed internal training programs on MLOps, LLMs, and production AI systems
-
 Trusted advisor to cross-functional stakeholders on AI product strategy
 
 🛠 Tech Stack:
 Python, R, Java, Shell | Spark, Hadoop, Hive | AWS, Azure, GCP | FastAPI, Flask | PostgreSQL, MongoDB | Docker, Git, CI/CD | OpenCV, NLP, Vertex AI
+
   
 * I'm a Data Scientist | Mentor
 # I have technical experience, expertize and interest in:
