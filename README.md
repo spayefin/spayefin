@@ -5,7 +5,7 @@
     fintech — including digital lending, credit underwriting, fraud detection, and risk analytics.
     
     Currently, as Deputy VP – Data Science & AI at Aye Finance where I architect, develop and deploy scalable, cloud-native AI solutions 
-    powering digital credit platforms used in different area of the business processing.
+    powering digital platforms used in different area of the business processing.
 
 🔍 Core Expertise:
 
