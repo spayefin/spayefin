@@ -1,8 +1,11 @@
 💼 About Me:
 
-    I’m an AI/ML Engineer and Data Science leader with 16+ years of deep, hands-on experience delivering intelligent solutions at scale. My core strength lies in combining Generative AI, Large Language Models (LLMs), and ML engineering to solve real-world problems in fintech — including digital lending, credit underwriting, fraud detection, and risk analytics.
+    I’m an AI/ML Engineer and Data Science leader with 16+ years of deep, hands-on experience delivering intelligent solutions at scale. 
+    My core strength lies in combining Generative AI, Large Language Models (LLMs), and ML engineering to solve real-world problems in 
+    fintech — including digital lending, credit underwriting, fraud detection, and risk analytics.
     
-    Currently, as Deputy VP – Data Science & AI at Aye Finance where I architect, develop and deploy scalable, cloud-native AI solutions powering digital credit platforms used across India.
+    Currently, as Deputy VP – Data Science & AI at Aye Finance where I architect, develop and deploy scalable, cloud-native AI solutions 
+    powering digital credit platforms used across India.
 
 🔍 Core Expertise:
 
@@ -29,7 +32,8 @@
 
 🛠 Tech Stack:
 
-    Python, R, Java, Shell | Spark, Hadoop, Hive | AWS, Azure, GCP | FastAPI, Flask | PostgreSQL, MongoDB | Docker, Git, CI/CD | OpenCV, NLP, Vertex AI
+    Python, R, Java, Shell | Spark, Hadoop, Hive | AWS, Azure, GCP | FastAPI, Flask | 
+    PostgreSQL, MongoDB | Docker, Git, CI/CD | OpenCV, NLP, Vertex AI
 
   
 * I'm a Data Scientist | Mentor
